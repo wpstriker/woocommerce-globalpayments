@@ -1,0 +1,5 @@
+{
+    "require": {
+        "globalpayments/php-sdk": "^2.0"
+    }
+}
